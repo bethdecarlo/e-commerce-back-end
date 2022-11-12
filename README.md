@@ -1,5 +1,5 @@
-# e-commerce-back-end
-A back-end for an e-commerce website. This server database can be dynamically manipulated to make get, post, pull, and delete requests. 
+# E-Commerce-Back-End 
+A back-end for an e-commerce website. This server database can be dynamically manipulated to make get, post, pull, and delete requests.  
 
   # Employee Tracker Command Line Application
   ![License Badge](https://img.shields.io/github/license/bethdecarlo/employee-tracker)
