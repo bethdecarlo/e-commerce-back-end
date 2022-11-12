@@ -23,16 +23,18 @@ A back-end for an e-commerce website. This server database can be dynamically ma
 
     npm i
     
-    run schema.sql in DBeaver
-    
-    env file required
+   run schema.sql in DBeaver
+   
+   .env file required
     
     npm run seed
 
     node server.js 
     
   ## Usage
-  Open Source
+  
+  Use Insomnia to make requests. See Demo videos for request examples. 
+  
   ## Contribution
 
   * [UCF Coding Bootcamp](https://github.com/UCF-Coding-Boot-Camp)
@@ -48,10 +50,6 @@ https://user-images.githubusercontent.com/110702442/201498725-623f7bbb-14b8-4f7a
 
 
   Full length video demonstration can be viewed [here](https://drive.google.com/file/d/1-RoI2c5WERJ2zArDbKkIQQ_-G8OqZ7g5/view).
-
-
-
-
 
 
 
