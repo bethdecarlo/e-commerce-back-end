@@ -13,10 +13,21 @@ A back-end for an e-commerce website. This server database can be dynamically ma
   * [Questions](#questions)
   * [License](#license)
   ## Installation
-
+   
+   Prerequisites: 
+   [MySQL](https://dev.mysql.com/downloads/mysql/)
+   [DBeaver](https://dbeaver.io/download/)
+   [Insomnia](https://insomnia.rest/download)
+   
     git clone
 
-    npm start
+    npm i
+    
+    run schema.sql in DBeaver
+    
+    env file required
+    
+    npm run seed
 
     node server.js 
     
